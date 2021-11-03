@@ -1,2 +1,2 @@
 # IMLP350
-NTU TRAIN Machine Learning
+NTU IMLP350 - Python Machine Learning
